@@ -60,7 +60,7 @@ Secktor.cmd({
                     .locale('id')
                 const date = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `┎───⊷❮ *${Config.botname}* ❯───⊷❍\n`
+                let str = `┎───⊷❮ ${Config.botname} ❯───⊷❍\n`
                 str +=
                     '```' + `┃✦╭──────────────◆
 ┃✦┃ 𝙋𝙡𝙪𝙜𝙞𝙣𝙨: ${commands.length}
@@ -69,7 +69,6 @@ Secktor.cmd({
 ┃✦┃ 𝙋𝙧𝙚𝙛𝙞𝙭: [ ${prefix} ]
 ┃✦┃ 𝙈𝙚𝙢: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 ┃✦┃ 𝘿𝙖𝙩𝙚: ${date}
-┃✦┃ 𝙈𝙤𝙙𝙚: ${Config.worktype}
 ┃✦┃ 𝙋𝙡𝙖𝙩𝙚𝙛𝙤𝙧𝙢: Kali•Linux
 ┃✦┃ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: 1.1.1
 ┃✦┃ 
