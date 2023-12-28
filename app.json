@@ -71,7 +71,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "KING-MD"
+	    "value": "*KING-MD*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -96,7 +96,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://KING-MDBot:naveeddogar@cluster0.jkvj760.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://KING-MDBOT:KING-MDBOT@cluster0.ltjjfkx.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable King-Md .",
@@ -107,7 +107,7 @@
          "value": "public"
   },
       "AUTO_REACTION": {
-    "description": "Reacts emoji to all commands.",
+    "description": "Reacts emoji to all messages.",
      "value": "false",
      "required": false 
   },
