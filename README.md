@@ -51,7 +51,7 @@
 <a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
-<a href='https://replit.com/@naveeddogar/KING-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://qr-for-king-v1-dc716a293659.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
 
