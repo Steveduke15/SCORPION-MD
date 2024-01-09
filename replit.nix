@@ -5,7 +5,7 @@
         pkgs.imagemagick
         pkgs.yarn
         pkgs.git
-        pkgs.ffmpegf
+        pkgs.ffmpeg
         pkgs.neofetch
         pkgs.libwebp
         pkgs.speedtest-cli
