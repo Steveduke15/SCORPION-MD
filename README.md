@@ -1,5 +1,3 @@
-# NEW UPDATE SOON...
-
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
@@ -47,13 +45,13 @@
 # DEPLOY SETUP
 
 
-### 1. FORK THIS REPO
+## 1 *`⨷ FORK THIS REPO`*
 <a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. SCAN QR CODE
+## 2 *`⨷ SCAN QR`*
 <a href='https://qr-for-king-v1-dc716a293659.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-
+# NOW DEPLOY ON Your Platform
 
 #### DEPLOY TO HEROKU 
 
@@ -121,4 +119,4 @@
 
 3: SamPandy Bro
 
-#### NOTE: DON'T MODIFY THIS BOT FIRST INFORM TGE OWNER
+#### NOTE: DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
