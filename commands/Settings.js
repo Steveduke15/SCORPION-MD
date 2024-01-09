@@ -40,7 +40,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/e78d4804df1e74b2e1fc2.jpg',
+                    url: 'https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg',
                 },
 
                 caption: `
