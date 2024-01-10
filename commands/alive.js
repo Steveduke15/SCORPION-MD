@@ -18,8 +18,8 @@
  var alivemessage = `*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ*
  
 _ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
-_Cʀєαtєd вყ : ѕυнαιℓ tєᴄʜ info_
-_If any query : wa.me/923184474176_
+
+_If any query : wa.me/923096566451_
 
 
 *_Update Alive Message by adding text with Alive_*
