@@ -35,11 +35,12 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
+<a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
 # DEPLOY SETUP
@@ -51,7 +52,7 @@
 ## 2 *`⨷ SCAN QR`*
 <a href='https://qr-for-king-v1-04c256f1385e.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-# NOW DEPLOY ON Your Platform
+## *`⨷ NOW DEPLOY`*
 
 #### DEPLOY TO HEROKU 
 
