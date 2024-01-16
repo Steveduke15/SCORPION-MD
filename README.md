@@ -109,7 +109,7 @@
 ---
 
 
-<h2 align="center"> Star This Repo If You like KING-MD🌟
+<h2 align="center"> Star This Repo If You like SCORPION-MD🌟
 </h2>
 
 #### Thanks To 
@@ -119,5 +119,7 @@
 2: Zubair Bro
 
 3: SamPandy Bro
+
+4: Mr. Saviya
 
 #### NOTE: DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
