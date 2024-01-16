@@ -23,7 +23,7 @@
 
 
    <p align="left">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
+  <a href="https://github.com/Steveduke15/SCORPION-MD/fork">
     <img src="https://img.shields.io/github/forks/Mr Saviya/SCORPION-MD?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/naveeddogar/KING-MD/stargazers">
